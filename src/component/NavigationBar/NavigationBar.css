@@ -16,3 +16,10 @@
 .right-nav {
     flex-direction: row !important;
 }
+
+.nav-pills :hover {
+    border: thin;
+    border-radius: 5%;
+    color: white;
+    background-color:skyblue;
+}

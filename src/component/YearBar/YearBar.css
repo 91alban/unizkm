@@ -1,0 +1,12 @@
+.custom-year-nav {
+    height: 3rem;
+}
+
+.custom-year-nav > .nav-item{
+    color: black;
+}
+
+.custom-year-nav > .nav-item:hover {
+    border-bottom: 3px solid rgb(9, 56, 187) !important;
+    background-color: rgb(224, 243, 252);
+}

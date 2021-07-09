@@ -6,7 +6,7 @@ import FooterNavigation from './FooterNavigation/FooterNavigation';
 
 function Body() {
     return (
-        <div>
+        <div class="container p-4 body-css">
             <FilterBar />
             <PageContent />
             <FooterNavigation />

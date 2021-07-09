@@ -14,7 +14,7 @@ function NavigationBar() {
                         <a class="nav-link" href="#">All university satellites moduli, third party app</a>
                     </li>
                 </ul>
-                <ul class="navbar-nav ml-auto right-nav">
+                <ul class="nav nav-pills ml-auto right-nav">
                     <li class="nav-item">
                         <a class="nav-link" href="#">Badges</a>
                     </li>

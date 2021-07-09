@@ -5,19 +5,19 @@ import './YearBar.css';
 function YearBar() {
     return (
         <Fragment>
-            <nav class="navbar navbar-light w-100">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Viti 1</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Viti 2</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Viti 3</a>
-                    </li>
-                </ul>
-            </nav>
+            <div class="container">
+                <nav class="nav nav-tabs custom-year-nav">
+                    <a href="#" class="nav-item nav-link">
+                        <i class="fa fa-home"></i> Viti 1
+                    </a>
+                    <a href="#" class="nav-item nav-link">
+                        <i class="fa fa-user"></i> Viti 2
+                    </a>
+                    <a href="#" class="nav-item nav-link">
+                        <i class="fa fa-envelope"></i> Viti 3
+                    </a>
+                </nav>
+            </div>
         </Fragment>
     )
 }
