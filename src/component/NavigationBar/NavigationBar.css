@@ -1,0 +1,18 @@
+.custom-navbar {
+    background: #176cb3;
+}
+
+.custom-navbar > ul > li > a {
+    color: white !important;
+    margin-right: 1em;
+}
+
+.left-nav {
+    flex-direction: column !important;
+    align-items: flex-start;
+    padding-left: 2em !important;
+}
+
+.right-nav {
+    flex-direction: row !important;
+}
