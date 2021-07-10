@@ -1,5 +1,5 @@
-import React, { Fragment } from 'react';
-import { FaAngleLeft, FaAngleRight, FaArrowRight, FaBookmark, FaGlobe, FaPlusCircle, FaStepBackward, FaStepForward } from "react-icons/fa";
+import React from 'react';
+import { FaBookmark } from "react-icons/fa";
 import './PageContent.css';
 import avatar from '../../Header/avatar.jpg';
 import addmore from '../../Header/addmore.png';
