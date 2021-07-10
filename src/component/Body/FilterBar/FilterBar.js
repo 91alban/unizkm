@@ -9,7 +9,7 @@ function FilterBar() {
                 <div class="col-6">
                     <button type="button" class="btn btn-secondary btn-sm filter-button">Filters</button>
                 </div>
-                <div class="col-6 d-flex justify-content-end">
+                <div class="col-6 d-flex justify-content-end fafilter">
                     <FaFilter />
                 </div>
             </div>
